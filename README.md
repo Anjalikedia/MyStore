@@ -8,7 +8,7 @@ Features:
 * React for displaying UI components.
 
 
-## Installation And Setup d
+## Installation And Setup
 default git branch -> master 
 ```
 git clone https://github.com/Anjalikedia/MyStore.git

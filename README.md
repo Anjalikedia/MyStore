@@ -9,7 +9,7 @@ Features:
 
 
 ## Installation And Setup
-default git branch -> master 
+code on git branch -> master 
 ```
 git clone https://github.com/Anjalikedia/MyStore.git
 git checkout master

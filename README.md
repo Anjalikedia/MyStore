@@ -16,5 +16,7 @@ git checkout master
 npm install
 cd frontend
 yarn install 
+cd .. 
+npm run dev
 ```
 

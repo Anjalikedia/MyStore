@@ -1,0 +1,10 @@
+main {
+    min-height: 50vh;
+}
+
+table, th, td {
+  border: 0px solid lightgray;
+  padding: 10px;
+  text-align: center;
+}
+
